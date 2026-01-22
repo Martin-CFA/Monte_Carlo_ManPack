@@ -1,0 +1,5 @@
+{
+  "name": "Monte Carlo Option Pricer",
+  "description": "A sophisticated financial dashboard for pricing Call Options using Monte Carlo simulations. Features a 5x5 stress-test matrix for Spot Price and Volatility, interactive heatmaps, distribution analysis, and Excel export capabilities.",
+  "requestFramePermissions": []
+}
